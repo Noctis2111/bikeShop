@@ -1,0 +1,65 @@
+/*header */
+#logo {
+    width: 50px;
+    height: 50px;
+}
+#shop-logo{
+    background-color: #343A40;
+    color: #FFF;
+}
+
+#shop-background{
+    background-image:url(../images/bike-background.jpg);
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+    
+}
+
+.bike-card{
+    margin-bottom: 15px;
+}
+
+#breadcrumb{
+    margin-top: 30px;
+    font-size: 12px;
+}
+
+
+
+#image{
+    width: 180px;
+    height: 100px;
+    
+}
+#total{
+    text-align: right;
+}
+.checkout{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+table{
+    border: 1px solid black;
+}
+thead{
+    border: 1px solid black;
+    padding: 10px;
+}
+tr{
+    border: 1px solid black;
+}
+th{
+    text-align: center;
+}
+td{
+    align-content: center;
+}
+
+
+
+
